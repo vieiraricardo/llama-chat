@@ -42,7 +42,8 @@ Once installed, you can access LlamaChat by visiting `http://localhost:3000 `in 
 Be respectful and polite when interacting with Llama.
 Ask specific questions to get the most helpful responses.
 Experiment with creative activities like writing stories or generating ideas.
-Contributing
+
+## Contributing
 
 LlamaChat is open-source, and we welcome contributions from the community! If you'd like to contribute, please follow these steps:
 
