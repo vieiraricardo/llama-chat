@@ -15,14 +15,14 @@ export default function Chat() {
 
   const messageIdentifier = {
     user: (
-      <div className="flex gap-2 text-[18px] my-1">
-        <FaUserSecret size={24} />
+      <div className="flex gap-2 text-[18px] my-1 items-center">
+        <FaUserSecret size={18} />
         You
       </div>
     ),
     assistant: (
-      <div className="flex gap-2 text-[18px] my-1">
-        <BsRobot size={24} />
+      <div className="flex gap-2 text-[18px] my-1 items-center">
+        <BsRobot size={18} />
         Assistant
       </div>
     ),
