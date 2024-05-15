@@ -21,7 +21,7 @@ Engage in creative activities like writing stories or generating ideas
 
 2. Clone the repository:
 
-- Run the command `git clone https://github.com/vieiraricardo/LlamaChat.git` to download the project files.
+- Run the command `git clone https://github.com/vieiraricardo/llama-chat.git` to download the project files.
 
 3. Install dependencies:
 
